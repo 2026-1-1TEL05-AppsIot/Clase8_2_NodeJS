@@ -1,4 +1,4 @@
 "# Clase8_2_NodeJS" 
 
-npm install
+npm install\
 node index.js
